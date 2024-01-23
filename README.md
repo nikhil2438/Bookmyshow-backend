@@ -22,3 +22,7 @@ This backend of Book Your Show where the user data is being stored and retrived 
 2. In the project directory, you can run: `node index.js`
 (use Nodemon insted Node if you want that changes will reload if you make edits)
 
+
+![Bookmyshow - Google Chrome 23-01-2024 15_23_20](https://github.com/nikhil2438/Bookmyshow-backend/assets/127426933/b2c90ba8-cff2-48cc-9731-f13c8db3234c)
+
+
